@@ -11,6 +11,7 @@ public class Main {
 	
 	private void start() {
 		
+		System.out.println("Enviando para o github");
 		
 	}
 
